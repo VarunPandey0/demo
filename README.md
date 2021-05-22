@@ -1,3 +1,3 @@
-# My first repo 
+# A tribute page
 
-just tring to know in's and out's of git repo
+a tribut page on "Shahid Bhagat Singh" for freeCodeCamp "Responsive web design project"
