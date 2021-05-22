@@ -1,3 +1,3 @@
 <?php
-include_onec("tribute.html")
+include_onec("tribute.html");
 ?>
